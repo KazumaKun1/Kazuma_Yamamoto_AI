@@ -1,7 +1,11 @@
 # Kazuma Yamamoto AI
 
-24kHz at 267,000 steps
-105 minutes of audio data
+Sample rate: 24kHz
+Steps: 330,000
+Pretrained model: None
 
-Terms of uses:
-- Just don't do anything bad when using this. 
+3 hours and 10 minutes of audio data
+
+Combination of english, tagalog and japanese singing audio data
+Speech audio data of english and tagalog
+UTAU audio samples of C3 and C4
